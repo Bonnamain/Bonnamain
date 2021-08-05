@@ -1,3 +1,20 @@
+package main
+
+import (
+	"fmt"
+)
+
+type Bio map[string]string
+
+func main() {
+	for k, v := range GetBio() {
+		fmt.Printf("%+v: %+v\n", k, v)
+	}
+}
+
+func GetBio() Bio {
+	return Bio{
+
 
 - 👋 Hi, I’m @Bonnamain
 - 👀 I’m interested in ...
