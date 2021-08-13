@@ -4,7 +4,7 @@
 
 <!-- Your title -->
 
-#### Welcome to my Github page! I'm Alexandre Bonnamain, a Cyber Security Specialist from Brazil.
+### Welcome to my Github page! I'm Alexandre Bonnamain, a Cyber Security Specialist from Brazil.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
