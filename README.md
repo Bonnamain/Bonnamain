@@ -1,6 +1,5 @@
 <!-- Image of Terminal Slackware -->
 
-<img src="https://elitelinux.neocities.org/githubterminallinux.svg" alt="Terminal Slackware" height="105" width="500">
 
 <!-- Your title -->
 
