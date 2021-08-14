@@ -1,5 +1,6 @@
 <!-- Image of Terminal Slackware -->
 
+<img src="https://elitelinux.neocities.org/githubterminallinux.svg" alt="Synthwave" height="105" width="500">
 
 <!-- Your title -->
 
