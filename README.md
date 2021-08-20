@@ -2,8 +2,6 @@
 
 - 𝗜 ❤️ 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴!
 
-<img align='right' src="https://media.giphy.com/media/QTfq2KqufemGlELdpL/source.gif" width="230">
-
 <p><em>A Bachelor Student Software Enginner at <a href="https://estacio.br/">University of Estácio de Sá</a></br>Instructor at <a href="https://alcidesmaya.edu.br/">University of Alcides Maya</a></em></p>
 
 
