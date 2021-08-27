@@ -1,4 +1,4 @@
-<h2> Hi, I'm Alexandre Bonnamain! <img src="" width="50"></h2>
+<h2> Hi, I'm Alexandre Bonnamain!</h2>
 
 - 𝗜 ❤️ 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴!
 
