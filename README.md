@@ -18,9 +18,10 @@ const bonnamain = {
                         General Coordinator: "FLISOL Porto Alegre - RS",
                         mentor: "W-Security"
                       },
+                      
  challenge: "日本語を勉強しています"
 }
-
+```
 <h1 align="center">─ For The Real Nerds!</h1> 
 
 <p align="center"><img src="https://i.imgur.com/AJX6CYh.png" alt="Synthwave" width="20%"><p>
