@@ -8,8 +8,19 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
+```javascript
+const bonnamain = {
+   pronouns: "He" | "Him",
+  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Go],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        General Coordinator: "FLISOL Porto Alegre - RS",
+                        mentor: "W-Security"
+                      },
+ challenge: "日本語を勉強しています"
+}
 
----
 <h1 align="center">─ For The Real Nerds!</h1> 
 
 <p align="center"><img src="https://i.imgur.com/AJX6CYh.png" alt="Synthwave" width="20%"><p>
