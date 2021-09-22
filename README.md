@@ -11,7 +11,7 @@
 ```javascript
 const bonnamain = {
    pronouns: "He" | "Him",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Go],
+  code: [PHP, Elixir, Ruby, HTML, CSS],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
