@@ -13,7 +13,7 @@ const bonnamain = {
    pronouns: "He" | "Him",
   code: [Shell Script, Ruby, Python, HTML, CSS],
   tools: [GNU/Linux, Free-BSD, Vi, Vim, Nano],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  askMeAbout: [Cybersecurity, Computer Forensics, Social Engineering, Deep Web],
   techCommunities: {
                         General Coordinator: "FLISOL Porto Alegre - RS",
                         mentor: "Elite Linux"
