@@ -11,8 +11,8 @@
 ```javascript
 const bonnamain = {
    pronouns: "He" | "Him",
-  code: [Java, JavaScript, Elixir, Ruby, HTML, CSS],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  code: [Shell Script, Ruby, Python, HTML, CSS],
+  tools: [GNU/Linux, Free-BSD, Vi, Vim, Nano],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
                         General Coordinator: "FLISOL Porto Alegre - RS",
