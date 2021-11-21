@@ -16,7 +16,7 @@ const bonnamain = {
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
                         General Coordinator: "FLISOL Porto Alegre - RS",
-                        mentor: "W-Security"
+                        mentor: "Elite Linux"
                       },
                       
  challenge: "日本語を勉強しています"
