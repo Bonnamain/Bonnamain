@@ -1,6 +1,6 @@
 <h2> Hi, I'm Alexandre Bonnamain!</h2>
 
-- 𝗜 ❤️ 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴!
+ **I’m a nerd!**
 
 <p><em>A Bachelor Student Software Enginner at <a href="https://estacio.br/">University of Estácio de Sá</a></br>Instructor at <a href="https://alcidesmaya.edu.br/">University of Alcides Maya</a></em></p>
 
@@ -11,7 +11,7 @@
 ```javascript
 const bonnamain = {
    pronouns: "He" | "Him",
-  code: [Shell Script, Ruby, Python, HTML, CSS],
+  code: [Shell Script, Ruby, Python, HTML, CSS, Markdown],
   tools: [GNU/Linux, Free-BSD, GIT, GitHub, GitLab, Vi, Vim, Nano],
   askMeAbout: [Cybersecurity, Computer Forensics, Social Engineering, Deep Web],
   techCommunities: {
