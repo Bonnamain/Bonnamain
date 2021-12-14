@@ -11,12 +11,13 @@
 ```javascript
 const bonnamain = {
    pronouns: "He" | "Him",
-  code: [Shell Script, Ruby, Python, HTML, CSS, Markdown],
-  tools: [GNU/Linux, Free-BSD, GIT, GitHub, GitLab, Vi, Vim, Nano],
-  askMeAbout: [Cybersecurity, Computer Forensics, Social Engineering, Deep Web],
+  code: ["JavaScript", "HTML", "CSS", "Markdown"],
+  tools: [],
+  askMeAbout: ["web dev", "tech", "game"],
+  hobbies: ["Gaming",],
   techCommunities: {
                         General Coordinator: "FLISOL Porto Alegre - RS",
-                        mentor: "Elite Linux"
+                        mentor: 
                       },
                       
  challenge: "日本語を勉強しています"
