@@ -2,7 +2,7 @@
 
  **I’m a nerd!**
 
-<p><em>A Technologist Student Systems for Internet at <a href="https://estacio.br/">University of Descomplica</a></br>Instructor at <a href="https://alcidesmaya.edu.br/">University of Alcides Maya</a></em></p>
+<p><em>A Technologist Student Systems for Internet at <a href="https://descomplica.com.br">University of Descomplica</a></br>Instructor at <a href="https://alcidesmaya.edu.br/">University of Alcides Maya</a></em></p>
 
 
 
