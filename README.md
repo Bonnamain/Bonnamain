@@ -13,7 +13,7 @@ Coordinator of <a href="https://flisol.info/FLISOL2021">FLISOL Porto Alegre - RS
 const Bonnamain = {
   pronouns: "he" | "him",
   code: ["JavaScript", "Typescript","HTML", "CSS"],
-  tools: ["Angular", "Git ", "Photoshop"],
+  tools: ["ReactJS", "Git ", "Photoshop"],
   askMeAbout: ["web dev", "tech", "painting"],
   hobbies: ["Coding", "Gaming", "Talking"],
   techCommunities: {
